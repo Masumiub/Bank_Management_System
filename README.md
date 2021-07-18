@@ -2,7 +2,7 @@
 A bank stores the following information of a user: 
 1. Name 
 2. Account number 
-3. Current balance 
+3. Current balance. 
 A user can perform the following tasks: 
 1. Withdraw money 
 2. Deposit money 
